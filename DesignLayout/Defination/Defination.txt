@@ -1,0 +1,7 @@
+To A LAYMAN: How to stracture our design to make it presentable.
+More so, what ever you do is to maeke meet the user demans or need
+
+
+Dev: Layout Design is the process ofr arranging
+ visual elements, like text, images, and sahpes on
+ a given page.
