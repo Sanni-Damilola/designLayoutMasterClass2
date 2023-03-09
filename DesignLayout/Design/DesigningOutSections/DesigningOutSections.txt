@@ -1,0 +1,4 @@
+Designing out sections
+(Header, Hero, Body, Footer)
+
+Note: Body is always dependent on the Content

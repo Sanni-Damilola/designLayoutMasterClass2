@@ -1,3 +1,8 @@
+
+Definations:
+___________________
+
+
 To A LAYMAN: How to stracture our design to make it presentable.
 More so, what ever you do is to maeke meet the user demans or need
 

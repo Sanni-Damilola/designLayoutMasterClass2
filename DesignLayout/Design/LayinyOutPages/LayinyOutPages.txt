@@ -1,0 +1,7 @@
+
+
+Layiny Out Pages
+___________________
+A page layout document is like a canvas that
+ you add text boxes, images, and other objects
+  to, then arrange the objects on the page however you like.
