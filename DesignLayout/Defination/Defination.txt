@@ -3,8 +3,8 @@ Definations:
 ___________________
 
 
-To A LAYMAN: How to stracture our design to make it presentable.
-More so, what ever you do is to maeke meet the user demans or need
+To A LAYMAN: This can be define as the way you stracture a design to make it presentable.
+More so, what ever you do is to meet the user demands or need
 
 
 Dev: Layout Design is the process ofr arranging
