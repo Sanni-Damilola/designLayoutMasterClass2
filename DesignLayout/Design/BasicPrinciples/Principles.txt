@@ -1,0 +1,5 @@
+Basic Principles
+(White Spaces)
+it helps to separate paragrahs of text, graphics,
+ and other positons of a documents.
+ further more, it make a documents look less crowded.
